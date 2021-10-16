@@ -9,6 +9,11 @@ PHP / CODEIGNITER / LARAVEL / VUE JS / REACT / JS / HTML / CSS
 ## What do you doing & think 
 - 🔭 I am currently working on this page. www.projectrade.com
 - 🐘 I love programming in PHP, it is the language I currently work with.
+- 🔭 I’m currently working on Projectrade 
+- 🌱 I’m currently learning Python / Reack / 
+- 👯 I’m looking to collaborate on Cualquier proyecto de PHP 
+- 📫 How to reach me: elianosft82@gmail.com 
+- ⚡ Fun fact: I left IT support because not everyone does programming 
 
 *I think databases is the main part of a system*
 
