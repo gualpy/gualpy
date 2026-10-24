@@ -5,7 +5,7 @@
 I am a person who is constantly learning, not everything can be learned but you start with something, I really like codeigniter for being a light, strong framework, laravel is the popular boy and python is the old man who has been teaching you all your life that you don't need a semicolon to be the best in the world
 
 # Abilities
-PHP / CODEIGNITER / LARAVEL / VUE JS / REACT / JS / HTML / CSS
+PHP / CODEIGNITER / C# / LARAVEL / VUE JS / REACT / JS / HTML / CSS
 ## What do you doing & think 
 - 🔭 I am currently working on this page. www.projectrade.com
 - 🐘 I love programming in PHP, it is the language I currently work with.
