@@ -7,7 +7,7 @@ I am a person who is constantly learning, not everything can be learned but you 
 # Abilities
 PHP / CODEIGNITER / C# / LARAVEL / VUE JS / REACT / JS / HTML / CSS
 ## What do you doing & think 
-- 🔭 I am currently working on this page. www.projectrade.com
+- 🔭 I am currently working on this page. Sicofac, sistema de facturación (SASS), Sistema para Gimnasios
 - 🐘 I love programming in PHP, it is the language I currently work with.
 - 👯 I’m looking to collaborate on Cualquier proyecto de PHP 
 - 📫 How to reach me: elianosft82@gmail.com 
